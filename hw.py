@@ -1,3 +1,3 @@
 print("hello \n\tworld")
-a = "hello \nwojhkjhkhkjjkhkhhgkhgkjjhkjrld"
+a = "hello \nwojhkjhkhkjjkhkhhhkgkgkjghlhlhgkhgkjjhkjrld"
 print(a)
